@@ -15,3 +15,4 @@ use {newdb} //this is to create and switch to a database. brackets not needed
 show collections //this is how you see what JSON is inside of the db so that you can use it
 db.{collectionsName}.find() //this just shows you about everything inside of the collections
 db.things.insert({"label":"hello world"}) //created one object with one value
+control + C //to quit to quit everything in Mongo
