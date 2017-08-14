@@ -1,3 +1,4 @@
+//in home directory (cd ~), and then you can start up anywhere (working theory)
 brew install mongodb //this installed mongo globally
 brew services start mongodb //this starts mongo when you start it
 sudo mkdir -p /data/db // creting a directory for mongo to store the data
